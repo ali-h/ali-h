@@ -15,6 +15,8 @@
 
 🎓 I'm currently a Software Engineering student, on a journey to combine my passion for technology and learning. My goal is to excel in software development, particularly in the realms of blockchain technology and open-source contributions.
 
+📖 Lifelong learner - I'm constantly seeking new knowledge and skills.
+
 🍳 When I'm not coding, I'm experimenting in the kitchen, whipping up delicious dishes from around the world. Cooking is not just a hobby; it's my creative escape.
 
 ### Skills 💻
@@ -51,10 +53,5 @@
 ### Let's Connect 🌐
 
 I'm always open to connecting with fellow developers, enthusiasts, and collaborators. Feel free to reach out for discussions, projects, or simply to say hello!
-
-### Fun Facts 🎉
-
-- 📖 Lifelong learner - I'm constantly seeking new knowledge and skills.
-- 🍽️ Cooking enthusiast - Exploring culinary wonders is my second love.
 
 Thanks for stopping by! 😄
