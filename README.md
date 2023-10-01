@@ -5,7 +5,10 @@
 
 ### About Me 🧑‍💼
 
+🌍 **Location:** Pakistan
+
 📧 **Email:** [alihassan.public@gmail.com](mailto:alihassan.public@gmail.com)
+
 🌐 **LinkedIn:** [@alihassansng](https://www.linkedin.com/in/alihassansng)
 
 ### Goals 🌟
