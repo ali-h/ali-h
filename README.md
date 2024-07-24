@@ -7,7 +7,7 @@
 
 🌍 **Location:** Pakistan
 
-📧 **Email:** [alihassan.public@gmail.com](mailto:alihassan.public@gmail.com)
+📧 **Email:** [alihassansng@gmail.com](mailto:alihassansng@gmail.com)
 
 🌐 **LinkedIn:** [@alihassansng](https://www.linkedin.com/in/alihassansng)
 
