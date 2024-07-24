@@ -17,8 +17,6 @@
 
 📖 Lifelong learner - I'm constantly seeking new knowledge and skills.
 
-🍳 When I'm not coding, I'm experimenting in the kitchen, whipping up delicious dishes from around the world. Cooking is not just a hobby; it's my creative escape.
-
 ### Skills 💻
 
 - 🌐 JavaScript, Python, Node.js
@@ -26,9 +24,9 @@
 - 📦 MERN Stack
 - 🌟 Blockchain and Cryptocurrencies
 - 🤖 Automation and Bot Scripts
+- 🤖 DevOps
 - 🧬 RFID Technology
 - 🧠 Fast Learner
-- 🍽️ Culinary Creativity
 
 ### Projects 🚀
 
